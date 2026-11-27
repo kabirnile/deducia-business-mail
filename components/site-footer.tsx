@@ -41,7 +41,7 @@ const columns: { title: string; links: { label: string; href: string }[] }[] = [
   {
     title: 'Legal',
     links: [
-      { label: 'Privacy', href: '/#contact' },
+      { label: 'Privacy', href: '/privacy' },
       { label: 'Terms', href: '/#contact' },
       { label: 'DPA', href: '/#contact' },
       { label: 'Cookies', href: '/#contact' },
